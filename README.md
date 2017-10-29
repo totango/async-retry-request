@@ -8,7 +8,7 @@ first response from either of them.
 
 ### Example usage for querying multiple Elasticsearch shards
 
-More details on this used case [here](https://medium.com/@aharon_12950/taming-elasticsearch-hiccups-with-async-retries-9729fbf6e192)
+More details on this used case [here](https://labs.totango.com/taming-elasticsearch-hiccups-with-async-retries-9729fbf6e192)
 
 First we wrap a call to the Elasticsearch Rest API with a class implementing AsyncRequest :
 
