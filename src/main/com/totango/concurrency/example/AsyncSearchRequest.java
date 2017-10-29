@@ -9,9 +9,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder;
 import com.totango.concurrency.AsyncRequest;
 import com.totango.concurrency.AsyncResponse;
 import com.totango.data.datatypes.DocumentType;
-import com.totango.service.elasticsearch.index.client.request.Params;
 import com.totango.service.elasticsearch.metrics.ElasticsearchMetricsClient;
-import com.totango.service.elasticsearch.metrics.Measurement;
 
 /**
  * @author aharon
